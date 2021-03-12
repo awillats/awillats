@@ -1,6 +1,6 @@
 ### 👋 🌎 Hello World, I'm Adam Willats 🧠 🔄 🖥️
 
-I research the intersection of systems neuroscience, machine-learning and closed-loop control.
+I research the intersection of systems neuroscience, machine-learning and closed-loop control.  
 Currently contributing better ways to understand the brain through closed-loop control here: [@stanely-rozell](https://github.com/stanley-rozell)
 
 <!--
