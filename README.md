@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 🌎 Hello World, I'm Adam Willats 
+
+I research the intersection of systems neuroscience, machine-learning and closed-loop control.
+Currently contributing better ways to understand the brain through closed-loop control here: @stanely-rozell
 
 <!--
 **awillats/awillats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
