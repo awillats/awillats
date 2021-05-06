@@ -6,9 +6,7 @@ Currently contributing better ways to understand the brain through closed-loop c
 See my academic publications: <a href="https://orcid.org/0000-0002-0747-5186">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 https://orcid.org/0000-0002-0747-5186
-</a>
-
-[google scholar page](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en)
+</a>, [google scholar page](https://scholar.google.com/citations?user=NwumsV8AAAAJ&hl=en)
 
 <!--
 **awillats/awillats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
